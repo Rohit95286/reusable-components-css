@@ -1,0 +1,16 @@
+/* styles.css */
+.select-custom {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #334155; /* Tailwind's slate-800 */
+    outline: none;
+  }
+  
+  .select-custom option {
+    background-color: #f8fafc; /* Tailwind's slate-100 */
+  }
+  
+  .select-custom option:hover {
+    background-color: #cbd5e1; /* Tailwind's slate-300 */
+  }
+  
